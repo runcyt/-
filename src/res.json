@@ -1,0 +1,25 @@
+[
+    {
+        "name": "app-banner",
+        "details": {
+            "duty": "123"
+        },
+        "crowd": [
+            {
+                "crowdName": "123阿萨德",
+                "crowdSize": "111"
+            }
+        ]
+    }, {
+        "name": "app-header",
+        "details": {
+            "duty": "阿萨德23"
+        },
+        "crowd": [
+            {
+                "crowdName": "123阿萨德",
+                "crowdSize": "111"
+            }
+        ]
+    }
+]
