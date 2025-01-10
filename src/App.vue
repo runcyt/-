@@ -109,7 +109,7 @@ onMounted(() => {
 <template>
   <div>
     {{ formData }}
-    <h2>投放区域</h2>
+    <h2>投放区域 123</h2>
     <el-select :model-value="selectArr" multiple @change="selectChange">
       <el-option v-for=" option  in  optionsArr " :value="option.value" :label="option.label" :key="option.value" />
     </el-select>
